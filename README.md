@@ -1,7 +1,9 @@
 # To-Do List
 
 Demo:[To-Do List Demo](https://hengziying.github.io/React-To-Do-List/)
-![Uploading Screenshot 2025-02-17 220407.png…]()
+
+![Screenshot 2025-02-17 220407](https://github.com/user-attachments/assets/b3a8afcf-a2a2-4f63-a733-c328b522815f)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
